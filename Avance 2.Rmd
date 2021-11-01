@@ -1,0 +1,35 @@
+---
+title: "avance 2"
+author: "Marina Davier"
+date: "11/1/2021"
+output: html_document
+---
+```{r}
+library(rio)
+```
+
+```{r}
+data=import("RE758081.sav")
+```
+
+```{r}
+str(data)
+```
+
+
+
+```{r}
+str(data$V750)
+table(data$V750)
+```
+
+
+```{r}
+data$oirVIH=as.factor(data$V750)
+levels(data$oirVIH)=c("no","si")
+table(data$oirVIH)
+```
+
+
+
+

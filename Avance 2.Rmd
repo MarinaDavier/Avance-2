@@ -1,9 +1,52 @@
 ---
-title: "avance 2"
-author: "Marina Davier"
-date: "11/1/2021"
+title: "Avance 2"
+author: "Marina Davier y Diego Volta"
+date: "10/23/2021"
 output: html_document
 ---
+
+# Introducción
+
+En el Perú, la salud reproductiva abarca un estado general de bienestar físico, mental y social vinculados con la sexualidad de las personas, ya sean enfermedades, problemas de pareja, principalmente en los jóvenes. En los últimos años, la tendencia de casos diagnosticados de infección por Virus de Inmunodeficiencia Humana (VIH) en el país, en varones muestra un incremento porcentual desde el año 2012, y en general, la tendencia es ascendente en la etapa joven y una leve disminución en la etapa adulta. Incluso, la estimación de razón anual Hombre/Mujer en personas con infección por VIH para el año 2020 fue de 3 a 1, es decir, que existían 3 hombres con infección por VIH por cada mujer con la infección. Sin embargo, el periodo que comprende el 2020, continúa presentando algunas limitaciones para la realización de los procesos de diagnóstico y seguimiento de los casos de infección por VIH y, por ende, para la vigilancia epidemiológica, dada la demanda de atención y las medidas adoptadas para la contención de la pandemia de COVID-19. Asimismo, la lucha contra el VIH/SIDA y las infecciones de transmisión sexual (ITS) y su aportación para contribuir a hacer efectivos los derechos sexuales y reproductivos de todas las personas es vital el uso del preservativo, el cual es altamente eficiente para reducir la transmisión sexual del VIH. Además, se estima que en el Perú existen 79 mil personas que viven con VIH y el 98.7% de esos casos se transmiten por relaciones sexuales sin protección, por eso, la importancia que tiene el uso del condón como medida de protección. Así pues, el problema público identificable es la propagación de enfermedades de transmisión sexual, siendo así uno ligado a la salud pública. 
+
+Dado que es un tema de gran relevancia, debemos de analizar los factores que generan y mantienen aún este problema que afecta el bienestar de las personas, y sobre todo su calidad de vida. De hecho, un estudio realizado por la INEI en el 2020 revela que las actitudes de un individuo frente a una infección como el VIH pueden ser adecuadas o no, de acuerdo con las concepciones y sobre todo según el nivel de conocimiento que tenga sobre las conductas de riesgo (2020, p. 102). 
+
+En el Perú, el sistema de vigilancia epidemiológica tiene limitaciones que no permiten estimar la magnitud real de las ITS. La información proveniente de estudios transversales evidencian que existe una elevada frecuencia de estas enfermedades que contrasta con la escasa demanda de servicios de salud. Esta situación es explicada por la inadecuada percepción de riesgo, la falta de reconocimiento de los síntomas, el carácter asintomático de muchas ITS y la carencia de servicios de ITS accesible (Mallqui, 2000).
+
+El Ministerio de Salud, a través de la Estrategia Sanitaria Nacional de Prevención y Control de ITS VIH/SIDA viene desarrollando distintos procesos y disciplinas, buscando influir en forma sistemática y positiva en las prácticas de salud de las poblaciones. En ese sentido,  tiene por objetivo diseñar y normar los procesos de organización de las actividades a desarrollar antes, durante y después del Día Mundial de Lucha contra el Sida, a través de los cuales se pretenden lograr objetivos funcionales relacionados a la cultura de salud, prevención y control de las Infecciones de Transmisión Sexual y VIH/SIDA, con un enfoque de equidad, derecho y ejercicio de la ciudadanía.
+
+En cuanto a la protección de la salud, podemos tomar en cuenta, en primer lugar, la Ley General de Salud y la Ley CONTRASIDA Nº 26626, y su modificatoria, Ley 28243, las cuales recogen el principio de autonomía de las personas; de ese modo, desde ellas se contemplan dos dimensiones: que las personas no pueden ser sometidas y obligadas a hacerse las pruebas de detección del VIH sin su consentimiento; y quien desee hacerse la prueba, deberá dejar constancia de la manifestación de su voluntad por escrito (Ministerio de Salud, 2009, p. 13). Asimismo, la Resolución Ministerial N° 962-2014/MINSA, aprobó la Norma Técnica de Salud Nº 097-MINSA/DGSP-V.02, “Norma Técnica de Salud de Atención integral del Adulto con Infección por el virus de la Inmunodeficiencia Humana (VIH)”, en la cual encargaba a la Dirección General de Salud de las personas, a través de la Estrategia Sanitaria Nacional de Prevención y Control de ITS VIH/SIDA la difusión de la Norma Técnica de Salud para disponer que el Instituto de Gestión de Servicios de Salud, así como las Direcciones de Salud, Direcciones Regionales de Salud, las Gerencias Regionales de Salud o las que hagan sus veces en el ámbito regional sean responsables en lo que corresponde de la implementación y supervisión de la mencionada Norma teniendo con la finalidad reducir la transmisión del VIH en el Perú, a través del fortalecimiento de las intervenciones preventivas y la atención integral del adulto con infección por VIH en los establecimientos de salud, mediante su objetivo general que busca estandarizar los procedimientos para la atención integral del adulto con infección por VIH en los servicios de salud a nivel nacional.
+Así pues, el problema público identificable es la propagación de enfermedades de transmisión sexual, siendo así uno ligado a la salud pública. 
+
+De esta forma, se han encontrado diversos factores que están asociados al problema público anteriormente mencionado (propagación de ETS, salud pública), como el conocimiento sobre el uso del condón, en tanto que este reduce drásticamente las probabilidades de contagio de ETS. Segundo, el conocimiento sobre las ETS en sí, ya que bien es sabido que por desconocimiento, no se saben de los riesgos a los que las personas se pueden enfrentar. Asimismo, el lugar de asesoramiento sobre ETS, muy ligado al punto anterior, pero que cuando ya son detectadas, adquiere un carácter importante al necesitar conocer sobre lugares de tratamiento de ETS. También, el conocimiento sobre pruebas de ETS, y dónde poder realizarlas, así como la posible respuesta frente a un caso de ETS positivo. De igual forma, se encuentra la asociación, en tanto influencia, del consumo de drogas en las ETS. Puntualmente, los aspectos asociados a la propagación de las ETS son los siguientes: 
+
+a. Conocimiento sobre el uso del condón 
+b. Conocimiento sobre las ETS
+c. Lugar de asesoramiento/tratamiento de ETS
+d. Conocimiento sobre pruebas de ETS
+e. Lugares para realizarse pruebas de ETS
+f. Respuesta frente a una ETS
+g. Influencia de las drogas en las ETS
+
+Como se puede apreciar, todos estos factores están asociados al problema público aquí abordado, en la medida en que conforma la desinformación sobre las ETS, cómo prevenirlas y cómo actuar frente a ellas en caso de contraerlas (o sospecha de infección). Asimismo, estos factores también tienen relación con el acceso a la información, pruebas de descarte, atención y tratamiento. Además, sobre la asociación de algunas prácticas o consumos y su relación con las ETS. De esta manera, los factores asociados al problema de interés son los siguientes:
+
+a. Desinformación sobre las ETS
+b. Accesibilidad a pruebas de descarte, atención, prevención y tratamiento
+c. Prácticas y consumos relacionados con las ETS
+
+Ahora bien, el *objetivo general* del presente reporte es analizar cuáles son los factores que permiten comprender a las ETS, a partir del control, prevención y transmisión de las mismas. De esta forma, los *objetivos específicos* son: i) identificar el conocimiento sobre las ETS, su importancia y repercusión en la vida de las personas; ii) presentar la relevancia sobre el acceso a información verídica y confiable para la propagación de conocimiento sobre las ETS; iii) comprender la importancia de la accesibilidad a herramientas que permitan la prevención, atención, descarte y tratamiento de ETS. 
+
+Con relación al problema público identificado, los factores asociados a este y los objetivos planteados, surge la siguiente *pregunta de investigación*: 
+¿Qué condiciones permiten el control y la prevención de las enfermedades de transmisión sexual (ETS) en el Perú?
+
+Ante ello, se plantean las siguientes posibles *hipótesis*:
+
+- La desinformación sobre la educación sexual reproductiva y sobre las enfermedades de transmisión sexual, así como la accesibilidad a herramientas para su prevención y tratamiento, limitan el control, manejo y prevención de las ETS en el Perú.
+- La desinformación sobre la educación sexual reproductiva y sobre las enfermedades de transmisión sexual, así como la accesibilidad a herramientas para su prevención y tratamiento no influyen ni limitan el control, manejo y prevención de las ETS en el Perú. 
+
+
+#ANÁLISIS DESCRIPTIVO
+
 ```{r}
 library(rio)
 ```
@@ -16,19 +59,154 @@ data=import("RE758081.sav")
 str(data)
 ```
 
-
-
 ```{r}
-str(data$V750)
-table(data$V750)
+
 ```
 
 
+##Variables a utilizar:
+Las siguientes variables a ser utilizadas corresponden a índices creados a partir de varias variables detalladas en el cuestionario.
+
+###Conocimiento sobre ETS:
+1: Conoce
+0: Desconoce
+V750 Ha oído hablar de la infección por VIH
+V751 Ha oído hablar de una enfermedad llamada SIDA
+V785 Ha oído hablar de otras enfermedades de transmisión sexual
+
 ```{r}
-data$oirVIH=as.factor(data$V750)
-levels(data$oirVIH)=c("no","si")
-table(data$oirVIH)
+data$conocimientoETS=data$V750+data$V751+data$V785
+summary(data$conocimientoETS)
+data$conocimientoETS <- ((data$conocimientoETS-0)/3)*100
+summary(data$conocimientoETS)
 ```
+
+###Accesibilidad al condón:
+0: No
+1: Sí
+V762AA Lugar donde se puede conseguir condones: Hospital MINSA
+V762AB Lugar donde se puede conseguir condones: Centro de salud MINSA
+V762AE Lugar donde se puede conseguir condones: Promotor de salud MINSA
+V762AG Lugar donde se puede conseguir condones: Puesto de salud MINSA
+V762AH Lugar donde se puede conseguir condones: Hospital ESSALUD
+V762AI Lugar donde se puede conseguir condones: Policlínico/centro/posta ESSALUD
+V762AJ Lugar donde se puede conseguir condones: Clínica particular
+V762AK Lugar donde se puede conseguir condones: Farmacia/botica
+V762AP Lugar donde se puede conseguir condones: Clínica7posta de ONG
+V762AS Lugar donde se puede conseguir condones: Tienda/supermercado/hostal
+V762AT Lugar donde se puede conseguir condones: Hospital/otro de la Iglesia
+V762AU Lugar donde se puede conseguir condones: Amigos, familiares
+V762AV Lugar donde se puede conseguir condones: Hospital/otro de las FFAA y PNP
+V762AW Lugar donde se puede conseguir condones: Hospital/otro de la Municipalidad
+
+```{r}
+data$accesibilidadCondón=data$V762AA+data$V762AB+data$V762AE+data$V762AG+data$V762AH+data$V762AI+data$V762AJ+data$V762AK+data$V762AP+data$V762AS+data$V762AT+data$V762AU+data$V762AV+data$V762AW
+summary(data$accesibilidadCondón)
+data$accesibilidadCondón <- ((data$accesibilidadCondón-0)/7)*100
+summary(data$conocimientoETS)
+```
+
+###Acceso a tratamiento/asesoramiento:
+0: No
+1: Sí
+V770A Lugar en el que solicita el asesoramiento o el tratamiento: Hospital MINSA
+V770B Lugar en el que solicita el asesoramiento o el tratamiento: Centro de salud MINSA
+V770G Lugar en el que solicita el asesoramiento o el tratamiento: Puesto de salud MINSA
+V770H Lugar en el que solicita el asesoramiento o el tratamiento: Hospital ESSALUD
+V770I Lugar en el que solicita el asesoramiento o el tratamiento: Policlínico/centro/posta ESSALUD
+V770K Lugar en el que solicita el asesoramiento o el tratamiento: Clínica particular
+V770M Lugar en el que solicita el asesoramiento o el tratamiento: Farmacia/botica
+V770P Lugar en el que solicita el asesoramiento o el tratamiento: Consultorio médico particular
+V770W Lugar en el que solicita el asesoramiento o el tratamiento: Automedicación
+
+```{r}
+data$accesoTratamiento=data$V770A+data$V770B+data$V770G+data$V770H+data$V770I+data$V770K+data$V770P+data$V770W
+summary(data$accesoTratamiento)
+data$accesoTratamiento <- ((data$accesoTratamiento-0)/4)*100
+summary(data$accesoTratamiento)
+```
+
+###Acceso a pruebas de ETS:
+0: No
+1: Sí
+V783 Conoce usted algún un lugar donde se pueda hacer la prueba para saber si tiene el virus que causa el del SIDA
+V784A Lugar para hacerse la prueba de SIDA: Hospital MINSA
+V784B Lugar para hacerse la prueba de SIDA: Centro de salud MINSA
+V784G Lugar para hacerse la prueba de SIDA: Puesto de salud MINSA
+V784H Lugar para hacerse la prueba de SIDA: Hospital ESSALUD
+V784I Lugar para hacerse la prueba de SIDA: Policlínico/centro/posta ESSALUD
+V784K Lugar para la prueba del SIDA: Clínica particular
+V784M Lugar para la prueba del SIDA: Farmacia
+V784Q Lugar para la prueba del SIDA: Clínica/posta ONG
+V784T Lugar para la prueba del SIDA: Hospital/Otro de la Iglesia
+V784U Lugar para la prueba del SIDA: Hospital/Otros de las FFAA y PNP
+
+```{r}
+data$accesoPruebasETS=data$V783+data$V784A+data$V784B+data$V784G+data$V784H+data$V784I+data$V784K+data$V784Q
+summary(data$accesoPruebasETS)
+data$accesoPruebasETS <- ((data$accesoPruebasETS-0)/7)*100
+summary(data$accesoPruebasETS)
+```
+
+###Prejuicios:
+0: No
+1: Sí
+V778 Estaría dispuesta a cuidar a familiares con SIDA
+V779 Si un profesor tiene el virus que causa el SIDA puede continuar impartiendo clases en la escuela, colegio o universidad
+V825 Compraría verduras o frutas si supiera que el vendedor está infectado con el virus que causa el SIDA
+
+```{r}
+data$V778[data$V778=="1"]<-2
+data$V778[data$V778=="8"]<-1
+summary(data$V778)
+data$V779[data$V779=="1"]<-2
+data$V779[data$V779=="8"]<-1
+summary(data$V779)
+data$V825[data$V825=="1"]<-2
+data$V825[data$V825=="8"]<-1
+summary(data$V825)
+
+data$prejuicios=data$V778+data$V779+data$V825
+summary(data$prejuicios)
+data$prejuicios <- ((data$prejuicios-0)/6)*100
+summary(data$prejuicios)
+```
+
+###Prevención:
+V820 En su primera relación sexual usaron condón
+```{r}
+summary(data$V820)
+```
+
+###Posibilidad de adquisición de un condón:
+V769 Podría conseguir un condón
+```{r}
+summary(data$V769)
+```
+
+###Diagnóstico reciente de ETS
+V763A En los últimos 12 meses, le han diagnosticado alguna ETS
+```{r}
+summary(data$V763A)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

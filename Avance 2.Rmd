@@ -59,10 +59,6 @@ data=import("RE758081.sav")
 str(data)
 ```
 
-```{r}
-
-```
-
 
 ##Variables a utilizar:
 Las siguientes variables a ser utilizadas corresponden a índices creados a partir de varias variables detalladas en el cuestionario.
@@ -81,6 +77,7 @@ data$conocimientoETS <- ((data$conocimientoETS-0)/3)*100
 summary(data$conocimientoETS)
 ```
 
+En este caso podemos identificar que el 90.08% de las personas han oidio hablar sobre el sida o alguna enfermedad de la ets por lo que el tema no es materia de ser ignorado sino que se es conocido por las personas.
 ###Accesibilidad al condón:
 0: No
 1: Sí
@@ -105,7 +102,7 @@ summary(data$accesibilidadCondón)
 data$accesibilidadCondón <- ((data$accesibilidadCondón-0)/7)*100
 summary(data$conocimientoETS)
 ```
-
+podemos interpretar que a través de los encuestados podemos tener la información que un 90.8% personas tiene accesibilidad de un condón ya se por medio de instituciones o familiares. 
 ###Acceso a tratamiento/asesoramiento:
 0: No
 1: Sí
@@ -125,7 +122,7 @@ summary(data$accesoTratamiento)
 data$accesoTratamiento <- ((data$accesoTratamiento-0)/4)*100
 summary(data$accesoTratamiento)
 ```
-
+Aquí podemos identificar que el 20.66% tiene acceso de tratamiento por lo cual es un nivel bastante bajo para poder atenderse siendo un punto por el cual el Estado debe prestar atención ya que incluso a un 75% de la población encuestada es que el 25% ha tenido acceso al tratamiento por lo que es necesario para que los intentos de prevenir y controlar el VIH es necesario que exista una optima atencion asi como tratamiento para poder manejar esta enfermedad.
 ###Acceso a pruebas de ETS:
 0: No
 1: Sí
@@ -147,6 +144,7 @@ summary(data$accesoPruebasETS)
 data$accesoPruebasETS <- ((data$accesoPruebasETS-0)/7)*100
 summary(data$accesoPruebasETS)
 ```
+Podemos identificar que el promedio de la accesibilidad para encontrar un lugar par ahacerse la prieba es del 39.97% por lo que también es necesario por parte del Estado poner atención en la eficacia y poder acceder a la pruebas ya que si estas pruebas no se realizan de manera eficaz no va a poder realizarse un control necesario por parte del estado para tomar acciones de prevención.
 
 ###Prejuicios:
 0: No
@@ -184,20 +182,26 @@ V769 Podría conseguir un condón
 summary(data$V769)
 ```
 
-###Diagnóstico reciente de ETS
+###Diagnóstico reciente de ETS 
 V763A En los últimos 12 meses, le han diagnosticado alguna ETS
 ```{r}
 summary(data$V763A)
+table(data$V763A)
 ```
 
+##Posibles pruebas estadísticas:
 
+- Regresión Lineal Múltiple: Posibilidad de adquisición de un condón y accesibilidad a un condón (variables independientes) y caso positivo de ETS (variable dependiente). 
+Con ello se busca medir la relación entre tener la posibilidad monetaria y de acceso, esto es, saber dónde solicitar un condón y que el Estado, efectivamente, lo provea, con los casos positivos de ETS. De esta manera se busca evidenciar si es que tener una mayor probabilidad de acceso al condón hace que se reduzca la posibilidad de contraer una ETS. De esta forma, se podría solicitar, empíricamente, al Estado que asegure la adecuada provisión de condones para todos los ciudadanos. 
 
+- Regresión Logística Ordinal: Conocimiento sobre las ETS (variable independiente) y nivel de prejuicio a las personas que tienen ETS (Índice de prejuicios, variable dependiente).
+Se busca evidenciar que el conocimiento sobre las ETS (encontrarse informado al respecto) influye en los distintos niveles de prejuicio, denotados por categorías de alto, medio y bajo.
 
+- Regresión logística binaria: conocimiento sobre las ETS (variable independiente) y si utilizaron o no el condón durante su primera relación sexual (variable dependiente).
+A partir del conocimiento que se tiene sobre las ETS, se busca evaluar la relación si utilizaron o no condón durante la primera relación sexual, dado que el nivel de desinformación en el Perú suele ser alto, por ser considerado como un tema tabú.
 
-
-
-
-
+- Regresión Lineal Múltiple: Acceso a pruebas de ETS y acceso a tratamientos/asesoramientos (variable independiente) y casos positivos de ETS (variable deoendiente).
+A partir del acceso a pruebas de ETS y el acceso a tratamientos o asesoramientos, ya sea de forma privada o pública, se pretende evaluar la relación con los posibles casos positos de ETS.
 
 
 
